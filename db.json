@@ -1,0 +1,20 @@
+{
+  "estados":[
+    {
+      "nome" : "Espírito Santo",
+      "sigla" : "ES"
+    },
+    {
+      "nome" : "Rio de Janeiro",
+      "sigla" : "RJ"
+    },
+    {
+      "nome" : "Minas Gerais",
+      "sigla" : "MG"
+    },
+    {
+      "nome" : "São Paulo",
+      "sigla" : "SP"
+    }
+  ]
+}
